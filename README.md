@@ -17,7 +17,7 @@ I'm a PhD candidate with [Dr. Emily Dolson](https://github.com/emilydolson/) and
 
 ## Papers
 
-- [Albani et al. 2021 (ALIFE 2021) -- The Comparative Hybrid Approach to Investigate Cognition across Substrates](https://github.com/alackles/project-subind)
+- [Albani et al. 2021 (ALIFE 2021) -- The Comparative Hybrid Approach to Investigate Cognition across Substrates](https://github.com/alackles/Albani_etal_2021_ALIFE2021)
 
 </td></tr></table>
 
