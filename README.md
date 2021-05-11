@@ -1,7 +1,7 @@
 # Welcome! 
 
-Name: Acacia Ackles ([pronunciation](https://www.youtube.com/watch?v=gmcSNtx3ECE))
-Pronouns: she/her or they/them
+📝 Name: Acacia Ackles ([pronunciation](https://www.youtube.com/watch?v=gmcSNtx3ECE))  
+🌈 Pronouns: she/her or they/them
 
 I'm a PhD candidate with [Dr. Emily Dolson](https://github.com/emilydolson/) and [Dr. Elise Zipkin](https://github.com/zipkinlab) at Michigan State University in the department of Integrative Biology. I'm working on developing metrics and visualization tools to better understand genetic complexity, and on becoming a better learning advocate for students and colleagues.
 
